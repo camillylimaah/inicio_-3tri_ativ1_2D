@@ -1,0 +1,25 @@
+body {background-color: rgb(52, 52, 206);
+}
+
+h1 {text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+h2 {text-align: center;
+    color: rgb(0, 255, 170);
+}
+
+h3 {margin-left: 7% ;
+    color: rgb(125, 103, 167);
+    background-color: black;
+}
+
+#ima1 {margin-left: 12% ;
+    width: 30%;
+}
+#ima2 {width: 30%;
+}
+
+
+h1 {background-color: rgb(79, 79, 235);
+}
