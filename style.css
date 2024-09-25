@@ -1,8 +1,8 @@
-body {background-color: rgb(0, 0, 240);
+body {background-color: rgb(0, 0, 0);
 }
 
 h1 {text-align: center;
-    color: rgb(0, 0, 0);
+    color: rgb(14, 214, 181);
 }
 
 h2 {text-align: center;
@@ -24,5 +24,5 @@ h3 {margin-left: 7% ;
 h1 {background-color: rgba(130, 130, 212, 0);
 }
 
-h1 { border-style: groove; border-color: rgb(4, 0, 255);
+h1 { border-style: groove; border-color: rgba(4, 0, 255, 0);
 }
