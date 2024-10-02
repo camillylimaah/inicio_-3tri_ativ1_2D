@@ -1,8 +1,14 @@
-body {background-color: rgb(0, 81, 255);
+body {background-color: rgb(0, 0, 0);
 }
 
 h1 {text-align: center;
-    color: rgb(14, 214, 181);
+    color: rgb(255, 255, 255);
+    border-style: double;
+    border-color: aliceblue;
+    border-width: 6px;
+}
+
+h1{margin-right: 20%;
 }
 
 h2 {text-align: center;
@@ -15,10 +21,6 @@ h3 {margin-left: 7% ;
     border-color: aliceblue;
     border-width: 6px;
 }
-
-h3 {margin-right: 20%;
-}
-
 
 
 #ima1 {margin-left: 12% ;
