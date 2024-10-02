@@ -10,8 +10,10 @@ h2 {text-align: center;
 }
 
 h3 {margin-left: 7% ;
-    color: rgb(125, 103, 167);
-    background-color: rgb(39, 30, 30);
+    color: rgb(0, 0, 0);
+    border-style: double;
+    border-color: aliceblue;
+    border-width: 6px;
 }
 
 #ima1 {margin-left: 12% ;
